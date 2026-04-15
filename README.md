@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy Daniel 
 
-<!--
-**dmontoro22/dmontoro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy un apasionado de la tecnología actualmente finalizando el **Grado Superior de ASIR** (Administración de Sistemas Informáticos en Red). Mi objetivo es especializarme en **Ciberseguridad Defensiva (Blue Team)** y Análisis de SOC.
 
-Here are some ideas to get you started:
+* Estudiante de ASIR.
+* Enfocado en: Seguridad en redes, endurecimiento de sistemas (Hardening) y análisis de logs.
+* 🇪🇸 Residente en España.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Formación y Certificaciones
+* **Cisco Networking Academy:** [Introduction to Cybersecurity](https://www.credly.com/badges/7082fe58-cf9a-4f5e-8312-c35a12b753c7/linked_in_profile)
+* **ASIR:** En fase de prácticas en seccion9 (Sistemas, Redes, Seguridad).
+
+## Mi Stack de Aprendizaje
+* **Sistemas:** Windows Server, Linux (Debian/Ubuntu).
+* **Redes:** Configuración de Switches/Routers, Protocolos TCP/IP.
+* **Seguridad:** Nmap, Wireshark, Fundamentos de SOC.
+
+## Mi camino en Ciberseguridad
+Actualmente estoy documentando todo lo que aprendo de forma autodidacta en mis repositorios. ¡Echa un vistazo!
